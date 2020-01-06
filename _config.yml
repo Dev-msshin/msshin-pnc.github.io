@@ -28,7 +28,9 @@ github_username:  msshin-pnc
 disqus_shortname: msshin-pnc
 
 # Build settings
-theme: minima
+# theme: minima
+# theme: jekyll-theme-clean-blog
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 encoding: utf-8
