@@ -15,11 +15,11 @@ comments: true
 사용자 계정 정보 - Setting - **Add Disqus to your site**
 ```
 
-- **Universal code** 복사
+- 아래 경로를 통해 **Universal code** 복사
 ```
 Setting - Installation
 ```
 
-# 적용
+# 2. 적용
 
 - 복사한 **Universal code**를 **_layouts/post.html**에 추가
