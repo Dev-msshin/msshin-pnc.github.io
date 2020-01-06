@@ -29,10 +29,9 @@ disqus_shortname: msshin-pnc
 
 # Build settings
 # theme: minima
-# theme: jekyll-theme-clean-blog
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-clean-blog
 plugins:
-  - jekyll-feed
+   - jekyll-feed
 encoding: utf-8
 
 # Exclude from processing.
