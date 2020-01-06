@@ -9,7 +9,8 @@ comments: true
 # HTML(HyperText Markup Language)
 
 - 주요
-{% highlight %}
+{% highlight language %}
+{% raw %}
 <br> : 줄 바꾸기
 <p> : 단락 바꾸기
 <hr> : 가로줄
@@ -21,10 +22,12 @@ comments: true
 <tr> ... </tr> : 행
 <td> ... </td> : 열
 <a> ... </a> : 하이퍼링크
+{% endraw %}
 {% endhighlight %}
 
 - 하이퍼링크 속성
-{% highlight %}
+{% highlight language %}
+{% raw %}
 href : 연결할 주소
 
 target : 지정된 href 주소를 보여줄 때 넣어줄 설정
@@ -37,6 +40,7 @@ title : 마우스를 링크위에 올려두면 나오는 설명
 id : href 속성으로 링크가 아닌 현재 페이지에서 이동(#Link 사용)
 예 : <a href="#here">이동</a>
 <a id ="here">여기</a>
+{% endraw %}
 {% endhighlight %}
 
 - 주석
