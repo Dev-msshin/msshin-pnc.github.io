@@ -3,6 +3,7 @@ layout: post
 title:  "jekyll 설치 및 실행"
 date:   2020-01-06 11:47:00 +0900
 categories: jekyll
+comments: true
 ---
 
 # 1. 루비(Ruby) 설치
@@ -81,4 +82,4 @@ gem install kramdown
 - 사이트 빌드
 ```
 jekyll serve
-``
+```

@@ -25,6 +25,7 @@ baseurl: ""
 url: "https://msshin-pnc.github.io/"
 # twitter_username: msshin-pnc
 github_username:  msshin-pnc
+disqus_shortname: msshin-pnc
 
 # Build settings
 theme: minima
@@ -51,5 +52,3 @@ encoding: utf-8
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-disqus_shortname: msshin-pnc
