@@ -39,6 +39,16 @@ gem install
 ```
 jekyll serve
 ```
+혹은 의존성 빌드
+```
+bundle exec jekyll serve
+```
+
+**Windows UTF-8 인코딩 에러 시 해결**
+```
+chcp 65001
+bundle exec jekyll serve
+```
 
 - 브라우저에서 아래 주소로 이동하여 확인
 ```
@@ -56,3 +66,19 @@ http://localhost:4000/
 gem install redcarpet
 gem install kramdown
 ```
+
+
+# 테마 설치
+
+- [루비 젬 테마](https://rubygems.org/search?utf8=%E2%9C%93&query=jekyll-theme) 사이트에서 테마 선택
+
+- **GEMFILE:** 해당 내용 복사 후 붙여넣기, 기존 테마 삭제
+
+- **_config.yml**에 **theme:** 수정
+
+- **INSTALL:** 루비 콘솔 창에서 실행
+
+- 사이트 빌드
+```
+jekyll serve
+``
