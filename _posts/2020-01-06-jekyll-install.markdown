@@ -32,7 +32,7 @@ gem install tzinfo-data
 ```
 Gemfile이 있는 경우
 ```
-gem install
+bundle install
 ```
 
 - 아래 명령어로 로컬 블로그 시작
