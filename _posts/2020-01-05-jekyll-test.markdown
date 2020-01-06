@@ -2,7 +2,7 @@
 layout: post
 title:  "jekyll 연습"
 date:   2020-01-05 16:42:25 +0900
-categories: jekyll update
+categories: jekyll
 ---
 
 ------------
@@ -45,7 +45,7 @@ comments: true // 블로그 포스트 하나하나마다 개별적으로 disqus 
 하이라이트 줄 번호
 {% endhighlight %}
 
-# **소스 코드에서** *{$* **넣는 방법** 
+# **소스 코드에서** *중괄호* **넣는 방법** 
 {% highlight language linenos=table %}
 {% raw %}
 소스코드를 여기에 넣는다.
@@ -141,3 +141,22 @@ if (isAwesome){
   return true
 }
 ```
+
+{% highlight ruby linenos %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
+
+--------------
+
+{% include show_title.html %}
+
+----------------
+
+
+{% highlight ruby %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
