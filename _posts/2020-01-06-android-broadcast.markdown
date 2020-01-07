@@ -52,7 +52,7 @@ public class StaticBroadcastReceiver extends BroadcastReceiver {
 }
 ```
 
-----------------
+<br>
 
 # 2. Broadcast **동적** 할당
 
@@ -140,3 +140,7 @@ public class MainActivity extends Activity {
     }
 }
 ```
+
+<br>
+
+- [샘플 소스](https://github.com/msshin-pnc/sample/tree/master/BroadcastSample)

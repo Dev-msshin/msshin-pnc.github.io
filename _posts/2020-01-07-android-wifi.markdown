@@ -21,6 +21,8 @@ background: '/img/posts/06.jpg'
 <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
 ```
 
+<br>
+
 ## **MainActivity.java**
 
 ```java
@@ -232,6 +234,8 @@ public class MainActivity extends Activity {
 }
 ```
 
+<br>
+
 ## **WifiAPItem.java**
 
 ```java
@@ -416,3 +420,7 @@ public class WifiAPItem {
     }
 }
 ```
+
+<br>
+
+- [샘플 소스](https://github.com/msshin-pnc/sample/tree/master/wifiSample)

@@ -19,6 +19,7 @@ background: '/img/posts/06.jpg'
 <uses-feature android:name="android.hardware.location.gps" />
 ```
 
+<br>
 
 # build.gradle
 
@@ -28,6 +29,7 @@ dependencies {
 }
 ```
 
+<br>
 
 # MainActivity.java
 
@@ -716,6 +718,7 @@ public class CameraPreview {
 }
 ```
 
+<br>
 
 # activity_main.xml
 
@@ -739,3 +742,7 @@ public class CameraPreview {
         android:layout_marginBottom="10dp"/>
 </RelativeLayout>
 ```
+
+<br>
+
+- [샘플 소스](https://github.com/msshin-pnc/sample/tree/master/CameraSample)
