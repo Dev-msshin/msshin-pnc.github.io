@@ -8,7 +8,6 @@ background: '/img/posts/06.jpg'
 ---
 
 # 1. **LocalePicker** 사용
-
 ## 1-1. 지원하는 언어 목록 가져오기
 
 ```java
