@@ -15,21 +15,21 @@
 ##### encoding: utf-8
 
 
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+title:              msshin-pnc
+email:              sms0223h@hanmail.net
+description:       Developer's Diary
+author:             msshin
 baseurl:            ""
 url:                "https://msshin-pnc.github.io/"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    BlackrockDigital
-facebook_username:  StartBootstrap
-linkedin_username:
+# twitter_username:
+github_username:    msshin-pnc
+# facebook_username:
+# linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+# google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
 # Build settings
 markdown:           kramdown
