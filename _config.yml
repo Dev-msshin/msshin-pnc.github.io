@@ -1,20 +1,3 @@
-##### title: msshin-pnc
-##### email: sms0223h@hanmail.net
-##### description:
-##### baseurl: ""
-##### url: "https://msshin-pnc.github.io/"
-##### # twitter_username: msshin-pnc
-##### github_username:  msshin-pnc
-##### disqus_shortname: msshin-pnc
-#####
-##### # Build settings
-##### # theme: minima
-##### theme: jekyll-theme-clean-blog
-##### plugins:
-#####    - jekyll-feed
-##### encoding: utf-8
-
-
 title:              msshin-pnc
 email:              sms0223h@hanmail.net
 description:       Developer's Diary
