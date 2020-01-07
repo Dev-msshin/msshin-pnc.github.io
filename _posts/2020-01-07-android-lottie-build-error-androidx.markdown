@@ -46,8 +46,8 @@ Information:See complete output in console
 
 ```java
 dependencies {
-    compile 'com.airbnb.android:lottie:3.0.7'
-//    compile 'com.airbnb.android:lottie:2.7.0'
+//    compile 'com.airbnb.android:lottie:3.0.7'
+    compile 'com.airbnb.android:lottie:2.7.0'
 }
 ```
 
