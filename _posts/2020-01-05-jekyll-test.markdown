@@ -4,6 +4,7 @@ title:  "jekyll 연습"
 date:   2020-01-05 16:42:25 +0900
 categories: jekyll
 comments: true
+background: '/img/posts/06.jpg'
 ---
 
 ------------

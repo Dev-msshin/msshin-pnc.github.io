@@ -4,6 +4,7 @@ title:  "[Android Studio] Bitmap 다루기"
 date:   2020-01-06 16:15:00 +0900
 categories: android
 comments: true
+background: '/img/posts/06.jpg'
 ---
 
 # 1. **Bitmap 크기 조절(resize)**

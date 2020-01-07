@@ -4,6 +4,7 @@ title:  "[Android Studio] Broadcast 다루기"
 date:   2020-01-06 17:52:00 +0900
 categories: android
 comments: true
+background: '/img/posts/06.jpg'
 ---
 
 # 1. Broadcast **정적** 할당

@@ -4,6 +4,7 @@ title:  "HTML 기본 문법"
 date:   2020-01-06 14:57:00 +0900
 categories: html
 comments: true
+background: '/img/posts/06.jpg'
 ---
 
 # HTML(HyperText Markup Language)
