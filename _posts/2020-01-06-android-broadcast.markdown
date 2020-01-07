@@ -143,4 +143,4 @@ public class MainActivity extends Activity {
 
 <br>
 
-- [샘플 소스](https://github.com/msshin-pnc/sample/tree/master/BroadcastSample)
+- [샘플 소스](https://github.com/msshin-pnc/broadcastSample)

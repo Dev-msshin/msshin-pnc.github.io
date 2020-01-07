@@ -423,4 +423,4 @@ public class WifiAPItem {
 
 <br>
 
-- [샘플 소스](https://github.com/msshin-pnc/sample/tree/master/wifiSample)
+- [샘플 소스](https://github.com/msshin-pnc/wifiSample)

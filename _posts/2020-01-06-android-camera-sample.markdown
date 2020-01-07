@@ -745,4 +745,4 @@ public class CameraPreview {
 
 <br>
 
-- [샘플 소스](https://github.com/msshin-pnc/sample/tree/master/CameraSample)
+- [샘플 소스](https://github.com/msshin-pnc/cameraSample)
