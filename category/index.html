@@ -18,7 +18,7 @@ background: '/img/bg-post.jpg'
         {% for posts in category %}
           {% for post in posts %}
             {% if post.url %}
-              <blockquote>
+              <category_box>
               <li>
                 <article class="post-category">
                   <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
@@ -43,7 +43,7 @@ background: '/img/bg-post.jpg'
                   </p>
                 </article>
               </li>
-              </blockquote>
+              </category_box>
             {% endif %}
           {% endfor %}
         {% endfor %}

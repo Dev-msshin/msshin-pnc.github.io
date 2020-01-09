@@ -40,7 +40,7 @@ a {
 
 blockquote {
   color: $gray-600;
-  margin-left: 60px
+  margin-left: 60px;
 }
 
 .section-heading {
@@ -103,4 +103,12 @@ th{
 
 td{
     border:2px solid $gray-500;
+}
+
+category_box{
+  color: $gray-600;
+  margin-left: 60px;
+  display: block;
+  border-radius: 5px;
+  background: $gray-100;
 }
