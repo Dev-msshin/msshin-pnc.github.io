@@ -40,3 +40,51 @@
     }
   }
 }
+
+.post-category {
+  > a {
+    color: $gray-900;
+    &:focus,
+    &:hover {
+      text-decoration: none;
+      color: $primary;
+    }
+    > .post-category {
+      font-size: 15px;
+      font-weight: 300;
+      margin: 0 0 0px;
+    }
+    > .post-title {
+      font-size: 15px;
+      margin-top: 10px;
+      margin-bottom: 5px;
+    }
+    > .post-subtitle {
+      font-size: 15px;
+      font-weight: 300;
+      margin: 0 0 0px;
+    }
+  }
+  > .post-meta {
+    font-size: 10px;
+    font-style: italic;
+    margin-top: 0;
+    color: $gray-600;
+    > a {
+      text-decoration: none;
+      color: $gray-900;
+      &:focus,
+      &:hover {
+        text-decoration: underline;
+        color: $primary;
+      }
+    }
+  }
+  @media only screen and (min-width: 768px) {
+    > a {
+      > .post-title {
+        font-size: 20px;
+      }
+    }
+  }
+}
