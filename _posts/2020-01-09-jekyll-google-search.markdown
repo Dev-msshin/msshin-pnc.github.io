@@ -46,4 +46,8 @@ Sitemap: https://msshin-pnc.github.io/sitemap.xml
     
     - google65d2626114100ad5.html 을 최상위 폴더에 다운로드 및 적용
 
-    - 
+    - 확인
+    
+- 메뉴에서 **Sitemaps** 클릭
+
+- https://msshin-pnc.github.io/sitemap.xml 등록
