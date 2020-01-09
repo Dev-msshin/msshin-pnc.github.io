@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Android Studio] Android 언어 변경"
+title:  "Android 언어 변경"
 date:   2020-01-07 09:39:00 +0900
 categories: android
 comments: true

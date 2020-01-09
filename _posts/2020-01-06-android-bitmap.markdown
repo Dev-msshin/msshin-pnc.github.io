@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Android Studio] Bitmap 다루기"
+title:  "Bitmap 다루기"
 date:   2020-01-06 16:15:00 +0900
 categories: android
 comments: true

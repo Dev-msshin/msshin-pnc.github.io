@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Android Studio] Android 위험 권한"
+title:  "Android 위험 권한"
 date:   2020-01-07 14:18:00 +0900
 categories: android
 comments: true

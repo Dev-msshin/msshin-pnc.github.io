@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Android Studio] 카메라 샘플 코드"
+title:  "카메라 샘플 코드"
 date:   2020-01-06 15:20:00 +0900
 categories: android
 comments: true

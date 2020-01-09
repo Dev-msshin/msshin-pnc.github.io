@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Android Studio] 암호화, 복호화"
+title:  "암호화, 복호화"
 subtitle: "Encrypt, decrypt"
 date:   2020-01-08 11:22:00 +0900
 categories: android

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Android Studio] 상태바 알림"
+title:  "상태바 알림"
 subtitle: "Android 상태바 알림 편집"
 date:   2020-01-07 15:43:00 +0900
 categories: android

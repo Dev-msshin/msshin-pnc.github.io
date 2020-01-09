@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Android Studio] Youtube search/player sample"
+title:  "Youtube search/player sample"
 subtitle: "Youtube search/player sample"
 date:   2020-01-09 12:27:00 +0900
 categories: android

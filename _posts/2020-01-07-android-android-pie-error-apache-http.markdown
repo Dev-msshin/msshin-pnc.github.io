@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Android Studio] Apache http에 의해 죽는 문제"
+title:  "Apache http에 의해 죽는 문제"
 date:   2020-01-07 14:46:00 +0900
 categories: android
 comments: true

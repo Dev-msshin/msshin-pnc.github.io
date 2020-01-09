@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[jekyll] Github page google 검색 허용"
+title:  "Github page google 검색 허용"
 subtitle: "Google 검색 허용"
 date:   2020-01-09 12:59:00 +0900
-categories: android
+categories: jekyll
 comments: true
 background: '/img/posts/06.jpg'
 ---

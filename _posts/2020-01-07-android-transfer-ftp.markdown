@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Android Studio] FTP 전송"
+title:  "FTP 전송"
 date:   2020-01-07 15:27:00 +0900
 categories: android
 comments: true
