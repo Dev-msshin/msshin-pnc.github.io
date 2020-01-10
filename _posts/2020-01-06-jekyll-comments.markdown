@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "jekyll 댓글 추가"
+subtitle: "jekyll 댓글 추가"
 date:   2020-01-06 14:03:00 +0900
 categories: jekyll
 comments: true

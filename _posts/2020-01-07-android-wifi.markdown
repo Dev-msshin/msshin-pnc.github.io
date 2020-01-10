@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Android WiFi 설정"
+subtitle: "Android WiFi 설정"
 date:   2020-01-07 12:30:00 +0900
 categories: android
 comments: true

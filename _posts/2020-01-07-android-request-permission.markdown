@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Android 권한 요청"
+subtitle: "Android 권한 요청"
 date:   2020-01-07 14:20:00 +0900
 categories: android
 comments: true

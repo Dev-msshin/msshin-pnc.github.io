@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "lottie okio 에러"
+subtitle: "lottie okio 에러"
 date:   2020-01-07 14:46:00 +0900
 categories: android
 comments: true

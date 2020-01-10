@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "jekyll 연습"
+subtitle: "jekyll 연습"
 date:   2020-01-05 16:42:25 +0900
 categories: jekyll
 comments: true
