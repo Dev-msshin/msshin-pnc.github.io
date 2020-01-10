@@ -10,7 +10,7 @@ background: '/img/posts/06.jpg'
 
 # **권한 종류**
 
------------------
+<hr>
 
 - [[안드로이드 권한 종류 링크](https://developer.android.com/reference/android/Manifest.permission.html?hl=ko)]
 
@@ -22,7 +22,7 @@ background: '/img/posts/06.jpg'
 
 # **권한 요청 코드**
 
----------------------
+<hr>
 
 ex) camera
 
