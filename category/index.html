@@ -6,8 +6,6 @@ background: '/img/bg-post.jpg'
 
 <div class="page clearfix">
   <div class="left">
-    <h1>{{page.title}}</h1>
-    <hr>
     <ul>
       {% for category in site.categories %}
         <article class="post-category">
@@ -15,6 +13,7 @@ background: '/img/bg-post.jpg'
             {{category | first}}
           </h1>
         </article>
+        <hr>
         {% for posts in category %}
           {% for post in posts %}
             {% if post.url %}

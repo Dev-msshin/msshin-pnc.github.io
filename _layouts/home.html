@@ -29,32 +29,9 @@ layout: default
 
         {{ content }}
 
-        <!-- Home Post List -->
         {% for post in site.posts limit : 5 %}
-
-        <article class="post-preview">
-          <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
-            <h1 class="post-title">
-              [{{ post.categories }}]
-              {{ post.title }}
-            </h1>
-            {% if post.subtitle %}
-            <h3 class="post-subtitle">{{ post.subtitle }}</h3>
-            {% endif %}
-          </a>
-          <p class="post-meta">Posted by
-            {% if post.author %}
-            {{ post.author }}
-            {% else %}
-            {{ site.author }}
-            {% endif %}
-            on
-            {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}            
-          </p>
-        </article>
-
-        <hr>
-
+          {% include home-post-list-item.html %}
+          <hr>
         {% endfor %}
 
         <!-- Pager -->
