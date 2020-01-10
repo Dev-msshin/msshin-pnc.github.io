@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Android 위험 권한"
+title:  "위험 권한"
+subtitle: "위험 권한"
 date:   2020-01-07 14:18:00 +0900
 categories: android
 comments: true
@@ -8,7 +9,7 @@ background: '/img/posts/06.jpg'
 ---
 
 # **위험 권한**
-- [안드로이드 위험 권한이란](https://developer.android.com/guide/topics/permissions/overview?hl=ko#dangerous_permissions)
+- [[안드로이드 위험 권한이란](https://developer.android.com/guide/topics/permissions/overview?hl=ko#dangerous_permissions)]
 
 <br>
 
