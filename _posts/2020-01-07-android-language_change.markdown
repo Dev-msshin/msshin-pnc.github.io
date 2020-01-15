@@ -31,7 +31,7 @@ private void setLocaleInfo(LocalePicker.LocaleInfo localeInfo){
 
 <br>
 
-#2. **Locale** 사용하여 기본 언어 불러오기
+# 2. **Locale** 사용하여 기본 언어 불러오기
 
 ```java
 public String getDefaultLanguage(Context context){
