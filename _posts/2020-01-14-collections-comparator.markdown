@@ -2,7 +2,7 @@
 layout: post
 title:  "List 정렬하기, 순서 바꾸기"
 subtitle: "Collections, Comparator 사용"
-date:   2020-01-13 10:53:00 +0900
+date:   2020-01-14 10:53:00 +0900
 categories: android
 comments: true
 background: '/img/posts/06.jpg'
