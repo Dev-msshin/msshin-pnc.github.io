@@ -41,3 +41,13 @@ public String getDefaultLanguage(Context context){
     return strLanguage;
 }
 ```
+
+<br>
+
+- 기본 언어 동일한지 체크
+
+```java
+public boolean checkDefaultLanguage(String language){
+    return getResources().getConfiguration().locale.getLanguage().equals(new Locale(language).getLanguage());
+}
+```
