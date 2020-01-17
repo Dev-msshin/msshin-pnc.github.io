@@ -23,6 +23,8 @@ private LinearLayout createLinearLayout(int id, int belowId){
 }
 ```
 
+<br>
+
 # TextView
 
 ```java
