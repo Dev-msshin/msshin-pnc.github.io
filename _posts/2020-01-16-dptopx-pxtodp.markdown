@@ -8,7 +8,7 @@ comments: true
 background: '/img/posts/06.jpg'
 ---
 
-# Dp To Px
+# Dp -> Px
 
 ```java
 public int dpToPx(Context context, float dp){
@@ -19,7 +19,7 @@ public int dpToPx(Context context, float dp){
 
 <br>
 
-# Px To Dp
+# Px -> Dp
 
 ```java
 public float pxToDp(Context context, float px) {

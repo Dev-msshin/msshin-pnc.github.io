@@ -2,7 +2,7 @@
 layout: post
 title:  "동적으로 레이아웃(Layout) 만들기"
 subtitle: "LinearLayout, TextView"
-date:   2020-01-16 16:20:00 +0900
+date:   2020-01-17 16:20:00 +0900
 categories: android
 comments: true
 background: '/img/posts/06.jpg'
