@@ -7,7 +7,7 @@ comments: true
 background: '/img/posts/06.jpg'
 ---
 
-# 1. 루비(Ruby) 설치
+#  1. 루비(Ruby) 설치
 
 - [[루비 인스톨러 for windows](https://rubyinstaller.org/downloads/)] 에서 **==>** 표시 되어 있는 버전 다운로드 및 설치
 - 보안 프로토콜 문제 해결(**Gemfile**에 설정된 **https**가 있을 경우엔 실행하지 않는다.)
